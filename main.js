@@ -3,4 +3,7 @@
 // Functions Practice
 
 
-//Input 
+//Define the function 
+function showMessage(fName,lName, school) {
+    
+}
